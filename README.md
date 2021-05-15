@@ -1,2 +1,1 @@
-# BlackJack
-# Kenneth Cottrell
+# BlackJack - Kenneth Cottrell
